@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1551966878 source:c:\users\user\desktop\sadihoca\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<cstring>
+	<string.h>
+	<fstream>
+	<vector>
+
