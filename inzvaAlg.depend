@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1558608666 source:c:\users\user\desktop\c++\inzvaalg\main.cpp
+	<iostream>
+	<math.h>
+
